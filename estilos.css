@@ -1,0 +1,35 @@
+.titulo{
+    color: rgb(4, 0, 255);
+    font-size: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.parrafo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.titulo2{
+    color: darkcyan;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-left: 30%;
+}
+.deco{
+    border-color: black;
+    border-width: 1px;
+    background-color: beige;
+    border-style: solid;
+}
+.deco2{
+    border-color: black;
+    border-width: 1px;
+    background-color: rgb(29, 10, 170);
+    border-style: solid;
+}
